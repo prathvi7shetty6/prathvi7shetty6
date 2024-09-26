@@ -31,7 +31,7 @@
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-CC6699?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-db7092?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Hibernate ORM" src="https://img.shields.io/badge/-Hibernate-F05032?style=flat-square&logo=hibernate&logoColor=white" />
-  <img alt="Apache Camel" src="https://img.shields.io/badge/-Apache-ea2845?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="Apache Camel" src="https://img.shields.io/badge/-Apache Camel-ea2845?style=flat-square&logo=apache&logoColor=white" />
   </p>
 - **Tools & Technologies**: <p> 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FB542B?style=flat-square&logo=amazonwebservices&logoColor=white" />
