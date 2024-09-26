@@ -1,11 +1,13 @@
 ### Hi there, I am Prathvi Shetty<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+  <br>
+  
 ### ✨ &nbsp;**About me**
 - ⚡ &nbsp; Graduate student studying Computer Science at the University Of Southern California
-- 🎓 &nbsp; Expected graduation: December 2024
+- 🎓 &nbsp; Expected graduation date: December 2024
 - 🏢 &nbsp; Worked as a SWE Intern at Adobe
 - 👨‍💻 &nbsp; Worked as a Software Engineer at Tricon Infotech for 3 years
-- 💻 &nbsp; Worked as a Research Intern at National Institute Of Technology, Surathkal
+- 💻 &nbsp; Worked as a Research Intern at National Institute Of Technology, Karnataka
 
   <br>
 
@@ -18,13 +20,13 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a73e8?style=flat-square&logo=typescript&logoColor=white" />
   </p>
-- **Databses**:
+- **Databases**:
 - <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-430098?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-764ABC?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-B7178C?style=flat-square&logo=neo4j&logoColor=white" />
   </p>
-- **Framework & Libraries**: Spring, Angular, Hibernate ORM, Apache Camel
+- **Framework & Libraries**: 
   <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-CC6699?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-db7092?style=flat-square&logo=angular&logoColor=white" />
